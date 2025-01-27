@@ -1,4 +1,4 @@
-# Real-Time-Emotion-Recognition-Through-Live-Camera-Feed-Using-CNN.
+# Real-Time-Emotion-Recognition-Through-Live-Camera.
 
 Facial expressions serve as visible indicators of various aspects of human behaviour, including affective states, cognitive activities, intentions, and psychopathological conditions. They play a crucial role in interpersonal communication and interaction. Automatic recognition of facial expressions holds significant potential in natural human-machine interfaces, behavioural science research, and clinical practice.
 
