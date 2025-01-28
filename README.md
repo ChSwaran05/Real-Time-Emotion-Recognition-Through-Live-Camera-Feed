@@ -1,6 +1,6 @@
 # Real-Time-Emotion-Recognition-Through-Live-Camera.
 
-#Project Description
+##Project Description
 This project implements an Automatic Facial Expression Recognition (FER) system using Convolutional Neural Networks (CNNs). The system is designed to detect and classify emotions in real-time from facial expressions captured through a live camera feed.
 
 #Key Features:
